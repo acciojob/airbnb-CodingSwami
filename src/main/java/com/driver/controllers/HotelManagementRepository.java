@@ -147,7 +147,7 @@ public class HotelManagementRepository {
 
         hotelHashMap.put(hotelName,hotel);
 
-        return  hotel
+        return  hotel;
 
 
     }
